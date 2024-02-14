@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space smugglers club house - Dark Version
+* source:	https://sketchfab.com/3d-models/space-smugglers-club-house-dark-version-e4f6ecb7a9024293949ae8259e08693c
+* author:	sawcisson (https://sketchfab.com/sawcisson)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space smugglers club house - Dark Version" (https://sketchfab.com/3d-models/space-smugglers-club-house-dark-version-e4f6ecb7a9024293949ae8259e08693c) by sawcisson (https://sketchfab.com/sawcisson) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
